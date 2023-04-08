@@ -1,0 +1,7 @@
+﻿  draw.cpp
+D:\devel\projects\detour_hack\detour_hack\draw.cpp(310,23): warning C4018: '<': signed/unsigned mismatch
+  hack.cpp
+  Generating Code...
+detours.lib(detours.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(detours.obj)' or at ''; linking object as if no debug info
+detours.lib(disasm.obj) : warning LNK4099: PDB '' was not found with 'detours.lib(disasm.obj)' or at ''; linking object as if no debug info
+  detour_hack.vcxproj -> D:\devel\projects\detour_hack\detour_hack\Debug\detour_hack.dll
